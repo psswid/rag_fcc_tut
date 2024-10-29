@@ -1,0 +1,4 @@
+[config]
+model="gpt-4o"
+model_turbo=""
+fallback_models=["gpt-4o"]
