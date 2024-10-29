@@ -1,0 +1,181 @@
+
+My favourite d100 games
+July 13, 2024texarkana23	
+
+Responding to a comment by Gary Furash: “What are your favorite D100 iterations and why? What do you use when you’re hacking/running something?”
+
+The order of presentation is how the books are located on my bookshelf (going from top to bottom, and left to right), rather than an indication of perceived quality or utility.
+
+Runequest: Adventures in Glorantha
+
+The current edition of Runequest, from its original publishers, Chaosium. This edition is more of an evolution of the second edition than the Avalon Hill, Mongoose, or Design Mechanism editions. While some of the mechanics (eg Strike Rank) are baroque by modern design sensibilities, they still work (but it helps if you have a blinged up Strike Rank chart with custom markers for each PC and NPC).
+
+What I like:
+
+    Colour art.
+    Available in print.
+    Actively supported by a publisher and people who love it.
+
+What I dislike:
+
+    Many of the supplements are reprints of old material rather than exploring regions outside Dragon Pass.
+    The sheer depth of world lore about Glorantha is intimidating.
+    The sprawling character sheet (you kinda need a double sided A3 to fit everything now).
+
+Call of Cthulhu
+
+I have the 7th edition of Call of Cthulhu. It is not a system I have run or played much outside of convention one shots, and a partial Shadows of Yog Sothoth campaign in 1991, but its hard to ignore its seminal impact on horror roleplaying. If I were running a CoC campaign, I would take a look at the Cthulhu Eternal SRD for a better take on SAN, and community/bond mechanics, and Delta Green for firearms lethality.
+
+What I like about 7th edition:
+
+    The “push” mechanic (reroll a non-combat skill check, but a failure causes complications).
+    Luck points (my players love spending luck points to nudge their rolls).
+    The “fight back” mechanic for streamlining fights.
+
+What I dislike about 7th edition:
+
+    The SAN system, while it emulates the source literature, our understanding of how mental health actually works has improved a lot since the 1980s.
+    Automatic fire rules that make me feel like I am playing Shadowrun.
+    Familiarity – you can’t send the PCs to a seaside village without all the players chanting in unison “Deep Ones!”.
+
+Jackals
+
+A rare bronze age rpg from Osprey publishing – who I am more familiar with for their series of military focused history books. This is a relatively light d100 system, but 272 pages gets you system, lightly developed post-collapse setting, and a scenario.
+
+What I like:
+
+    Bronze Age!
+    Clash Points – a system for doing minor actions in combat
+    Rites – magic that feels distinctive.
+
+What I dislike:
+
+    I am not fond of the small book format.
+    Osprey does not usually bundle pdfs with hard copy books.
+
+Elric
+
+Another Chaosium game, this time focused on the works on Michael Moorcock’s eternal champion. The version I have was published in 1993. When I was at high school, someone donated copies of most of Moorcock’s works to the school library, which helped expose me to different forms of fantasy than just Tolkien and his imitators.
+
+What I like:
+
+    Concise, its just 154 pages
+    Dark fantasy elements – demonic swords, vile sorcery, gonzo elements.
+    Various combat rules, including random armour values for absorbing damage, and a stacking penalty for doing the same action again in one combat round.
+
+What I dislike:
+
+    It is out of print, and its unlikely that another Chaosium edition will every happen.
+    I have not played it enough to get annoyed by any of the quirks in the system
+
+M-Space
+
+A rare sci-fi d100 game by Clarence Redd, this is more of a modular toolkit for heroic/mythic scifi, rather than a setting specific game or a game built to focus on the level of “blue collar in space”.
+
+What I like:
+
+    A good starting point if I ever want to do a SF d100 game.
+
+What I dislike:
+
+    A bit bare bones in options – but a problem in designing future games is that technology is immensely complex and trying to account for the variables of plausible futures is hard.
+    The Mythras Imperative game engine (se RQ6 below)
+    Non standard book size
+
+Revolution d100
+
+A 2016 release by Paolo Guccione and Manuele Verduci, that in 254 pages does a good job of outlining a multi-genre d100 game.
+
+What I like:
+
+    Packed full of ideas that are different to the Chaosium d100 games.
+    The extended contest mechanics that give you a reason to keep the traditional 3-18 characteristics, rather than making everything scale to 1-100.
+
+What I dislike:
+
+    The writing, there is just something about it that I find hard to stay engaged with.
+    I think this is a set of ideas I would cherry pick from, rather than running a game based solidly on it.
+
+Basic Roleplaying: The Chaosium Roleplaying System
+
+This collects rules from across many Chaosium titles. The 2008 hardcopy I have is 400 pages, the 2023 pdf is closer to 256 pages (I do plan on getting the hard copy at some point).
+
+What I like:
+
+    Pretty much all the options to build a campaign in one place
+    The ORC license means I can daydream about writing to publish something for BRP.
+
+What I dislike:
+
+    There are times I wish it included mechanics from some of the most modern Chaosium games.
+    Dozens of weapons that are almost identical, or so wildly sub-optimal no adventurer would ever choose them.
+
+Eclipse Phase
+
+An example of a setting specific sci-fi d100 game. I have a copy of the second edition.
+
+What I like:
+
+    Detailed setting focused on a future solar system where has been lost to hostile AI.
+    All the cyberpunk toys you could want.
+
+What I dislike:
+
+    Body hopping and mind forking – I just don’t think this works well in a system as granular as d100, a tag system like FATE handles it better.
+
+Runequest 6
+
+This is now called Mythras, but all my copies of it are labelled Runequest 6. Largely divorced from the Glorantha setting of most previous Runequest editions, it is a multi-genre toolkit game, although I think the core rules are optimised for pre-gunpowder games. I really wanted this to be my forever game when it came out, but for a number of reasons I now avoid it as much as possible.
+
+What I like:
+
+    Base skills based on the sum of two characteristic scores, giving you a much higher base chance of success than the 05-15% of most Chaosium d100 games..
+    A good range of options for tailoring your campaign.
+    Lots of subtle changes to the older Chaosium/Mongoose take on the d100 games.
+
+What I dislike:
+
+    Linear Warrior, Quadratic Mage – a sorcerer with 90% skill in Wrack is x5 more effective in combat than someone using a melee weapon with a 90% skill.
+    The 60 odd combat effects are paralysing for a novice to the game, and boring for someone who has mastered the game (you will choose from the same list of 3-5 effects for about 95% of your actions).
+    My core play group are fervent about not wanting to use the Mythras Action point system in any future campaign.
+    Mythic Polynesia, a Mythras supplement includes some outdated racist/colonialist ideas, and The Design Mechanism chose not to remedy this, adopting a “no politics” stance to deflect criticism. As such, the Mythras system is dead in the New Zealand game design community and I will not buy any future TDM publication.
+
+Runequest 2
+
+This is my d100 nostalgia game, one of the first ttrpgs that I owned, a gift from my aunt Trisha. In my early teens I did not really appreciate it, preferring AD&D and Traveller. In my 20s I grew to appreciate it, and the campaign I played with university friends while doing my PhD is one of my favourite roleplaying experiences as a player.
+
+Likes:
+
+    While still grounded in Glorantha, I think the setting is open enough to make it your own version of Glorantha more easily than the latest edition.
+    The fumble chart – having done SCA rattan fighting for over 20 years I wince in recognition at many of the entries.
+    The design notes make you part of the conversation in the game design, like the design commentary in 13th Age. You immediately felt a permission to hack the system in a way that Gygaxian games did not.
+
+Dislikes:
+
+    The organisation is a bit wild, in that important character creation rules are buried in the Appendices.
+    Still waiting for those heroquesting rules 45 years later!
+    It was out of print for decades.
+
+Mothership
+
+A just published indie darling that is fine tuned for blue collar sci-fi horror games. It is much more of an independent take on d100 gaming than nearly all of the other games discussed here that descend from Runequest (jackals being the other exception).
+
+Likes:
+
+    Simplicity of the overall system and the speed of character creation
+    Each character archetype’s different Stress reaction.
+    Great layout for both rules and character sheets.
+
+Dislikes:
+
+    Not really suited for the kind of 50 session campaigns I tend to run.
+
+What do I use when hacking/running something?
+
+If I want to divorce myself from my natural preconceptions, I think picking up Mothership, with its clear layout and minimal system, is the best game I have.
+
+If I want to use a more familiar toolkit, then the 2023 version of Basic Roleplaying is what I start reading.
+
+Beyond that, it depends on what my players want in their next campaign. I usually pitch at least five ideas when the current campaign is wrapping up. I have at least one solid draft of a planetary romance game using a a mix of d100 skills and GUMSHOE investigative abilities.
+
+I have decided to have a read of Runequest 2 and to think about how I might use that edition as the base for a future campaign, so that might be my next blog post.

@@ -1,0 +1,98 @@
+
+Building a d100 Roleplaying Game
+July 27, 2022texarkana23	
+
+Changed the blog theme for the first time in about a decade. I need to figure out a better widget for displaying a menu of past posts.
+
+This post is the first of several on the topic of building a d100 roleplaying game for use in a campaign I plan to run. The design process is one where I take different bits of rules from different d100 games that I like, and stitch them together into what is hopefully a coherent design for maximum game fun at my table. This is me working through my preferences from existing games, plus my judgment about what will work for my established group of players, rather than me trying to design a new d100 game engine from scratch.
+
+First, my reasons not to just run with a published d100 game that I already own:
+
+    Warhammer Fantasy Roleplay 4th Edition: A bit too tied to the setting, and I am not convinced the core combat/magic rules are robust enough without buying a couple of expansion sets.
+    Zweihander: Too fiddly, too pretentious, and I’m still annoyed at how much the author spammed their work on the roleplaying forums I read (before he was perma-banned).
+    Basic Roleplaying System Reference Document: Too limited and bare bones in detail – it looks a lot like it was published to prevent any kind of retro-clone OSR flowering in d100 that might get too close to Chaosium IP. Not that this stopped…
+    Cthulhu Eternal Open Game License: While I am not planning a jazz age horror game, there are some good ideas in here.
+    Elric!: I probably ran into random armour points for the first time in this game, which I think is a good way to deal with the players wanting to stack every single bit of armour they can find (which leads to an arms race with GM adversaries to keep combat interesting).
+    Flashing Blades: not a d100 game, but I would be silly not to take a look at the first game to focus on this swashbuckling era. I think I have the ubiquity engine’s One for All lying around somewhere too. 7th Sea 2E is too much of a narrative game to be useful.
+    Basic Roleplaying: the big gold book is packed full of tools for building your own d100 games. Lots of different mechanics to mine here, even though its overall presentation is a little dated compared to the new toolkit systems on the block. The Blood Tide setting could be worth picking up for some piracy and nautical rules.
+    Mythras: my group played this in its Runequest 6 edition, and while there is a lot to like in the game, my group never wants to play with its action point system or menu of 50+ combat special effects again. The Fioracitta setting could be worth picking up for ideas.
+    Revolution 100: another system full of interesting ideas, but I find the text presentation of these ideas hard to parse in places, and ultimately the skill list is too truncated for the kind of game I want to run, and that my players want to play. Its take on extended conflicts is best in class.
+    Runequest: The second edition was one of my first roleplaying games, and I will love it forever. The current Runequest in Gorantha edition is wonderful, but a bit fiddly around the edges. I really don’t fancy running its complex Strike Rank system online. I prefer its take on passions – with risk when you invoke them – to the “Mother may I?” bonus seeking of Mythras.
+    Clockwork and Chivalry: while it is a renaissance setting that my players want, I am not keen on always evil witches, witch hunting, and religious violence, which look like core elements of this setting.
+    Mothership: the new hotness of indie gaming with a fresh take on d100 games. If I wanted to run a short 8-12 session campaign, I would be using this as the base game engine, even though the original game is focused on space horror.
+    Call of Cthulhu 7th Edition: The latest evolution of d100 from Chaosium – in some ways showing what could have been with the latest edition of Runequest if they had not tacked backwards towards the 2nd edition for reverse compatibility. Pulp Cthulhu also has useful ideas to borrow for a swashbuckling game.
+I also plan to borrow a few mechanics from non-d100 games, which I will discuss in the relevant sections. Rather than try and cover everything in one epic blog post, it makes sense to break it down into shorter posts. In the rest of this post I will write about character ability scores (aka attributes or characteristics – I use ability because it is a shorter word), and in the next post I will discuss skills.
+
+The Eight Ability Scores
+
+Where D&D uses the six ability scores of Strength (STR), Constitution (CON), Dexterity (DEX), Intelligence (INT), Wisdom (WIS), and Charisma (CHA), the d100 family of games usually has eight ability scores of STR, CON, DEX, Size (SIZ), INT, Power (POW), Education (EDU), and either CHA or Appearance (APP). POW is not a replacement for WIS, and represents aptitude for magic, psychic, or other super powers, plus Sanity (SAN) in Call of Cthulhu.
+
+Ability Score Scale
+
+Most d100 games follow D&D and have a 3-18 scale for most of the ability scores for human characters. The exceptions being INT and SIZ with a 8-18 range. Call of Cthulhu 7E adjusts these scores into a d100 scale by multiplying them by five.
+
+In most cases higher scores are always better, the exception being SIZ, where being small could boost stealth, allow you to squeeze through a narrow gap, or hide inside a small space.
+
+Random or Point Buy
+
+The traditional random rolls for ability scores are 2d6+6 for INT and SIZ, and 3d6 for the other six ability scores. So “mean norm the average ranger” will have 13s for INT and SIZ, and 10s or 11s for the other six ability scores. Elric! (1993) is a more high power system, all eight ability scores are rolled 2d6+6. Non-human PCs can have different scores, eg in Runequest 2, a Great Troll would roll 4d6+12 for STR, but only 2d6+2 for INT.
+
+Some d100 games allowed you to shift up to three points around between your scores. In my Tarantium campaign I allowed a player to discard one die and reroll it, a maximum of three times when generating all eight ability scores.
+
+Mythras has a point buy system. The default is 80 points, which gets you average scores of 10 in your eight ability scores, but allows you to min/max as you see fit within the constraint that INT and SIZ require minimum scores of 8. In my Tarantium campaign I increased the point buy to 84 points.
+
+Philosophically, random rolls mean you get to discover the character you will play, while point buy lets you choose the character you want to play. For long campaigns my preference leans towards point buy. In Tarantium I let my players choose. One rolled, the other four went with point buy. For point buy systems, it is important for the GM to point out break points for derived characteristics, to avoid system mastery traps in character generation (eg, building a Mythras character with only two action points).
+
+For a high power campaign, I might use a variation on Rafu’s matrix method, which mixes elements of choice and randomness. This has a three step process:
+
+    Assign the numbers 1-8, each to one of the eight ability scores.
+    Roll a pool of 8d8. From the pool, assign one die roll to each of the eight ability scores.
+    Roll 1d8, in strict order, for each ability score.
+
+This changes the base ability range from 3-18 to 3-24, average of 13-14 (not too far off Elric!), but I am okay with PCs being special snowflakes. The original mechanic used d6s as it only had to generate six ability scores.
+
+Progression
+
+Ability scores in d100 games are sticky and hard to change, often requiring significant time and money to train up. SIZ is usually the hardest to change, POW the easiest as using magic successfully might allow a check to increase it. A character maximum is usually three points above the highest possible rolled ability score, so for a 3d6 score, that is 21. In some d100 games injuries can permanently reduce an ability score.
+
+In Tarantium I sometimes awarded increases by GM fiat, to represent training that the party got from their employers.
+
+Derived characteristics
+
+This is one of the areas where the different d100 game engines have significant points of difference.
+
+    Hit Points: these are “meat points” not “plot armour”, and are usually calculated on CON and SIZ, divided by 2. In Call of Cthulhu 7E, its divided by 10 or by 5 in Pulp Cthulhu. D100 games can have a mix of general HP and location specific HP. Mythras only has location HP. Average general HP is around 12, or 24 in Pulp Cthulhu.
+    Action Points: a Mythras score, based on INT and DEX.
+    Damage Modifier: a bonus to melee damage, based on SIZ and STR, usually represented by rolling a an extra die that is not the same as your weapon die (which I find a little clunky).
+    Spirit Combat Damage: a bonus to damage when fighting spirits. Based on POW and CHA.
+    Movement Rate: a critical score in Call of Cthulhu, where flight is often a better choice than fight.
+    Experience Modifier: In Mythras your CHA score can adjust the number of XP you get each game session. In Runequest the skills category modifier also adjusts experience checks.
+    Healing Rate: In Mythras and Runequest your CON score determines how quickly you recover lost HP, typically 1-3 HP per day.
+    Luck Points: A player resource to nudge die rolls in their favour. In Call of Cthulhu 7E these are generated randomly. In Mythras it depends on your POW score.
+    Magic Points: Fuel for spells, usually determined by POW. Magic Point recovery depends on how magic rich your campaign world is. In magic rich Runequest you regain 25% of MP every six hours. In magic-poor Tarantium, you regenerated 1 MP per day in a flying city, and 0 per day on the ground.
+    Strike Rank: Combat initiative. In Mythras its derived from DEX and INT, with a penalty for encumbering armour. In Runequest its based on DEX and SIZ, plus a modifier based on the weapon you are using.
+    Sanity: In Call of Cthulhu, your resilience in the face of cosmic horror. Based on POW x5. In my Tarantium campaign I used Areté (moral excellence) to represent moral corruption in a manner similar to SAN. I am not fond of the actual forms of madness that older editions of Call of Cthulhu inflicted on investigators, which were derived from older stereotypes of mental illness.
+    Encumbrance Points: no one likes encumbrance and fatigue mechanics, but in Runequest it is based on STR+SIZ, in Mythras its STR x2.
+    Skills category modifier: In Runequest modifiers to skills are based on a range of ability scores, eg Agility is derived from STR, SIZ, DEX, and POW, while Knowledge is derived from INT and POW. Usually a flat modifier of -5% to +15% to the base skill scores. Not needed in Mythras where base skill scores are determined by combining two ability scores or doubling one ability score (so a range of 6% to 36%).
+
+Implications for Other Mechanics
+
+High STR, CON, DEX, and SIZ scores make you good at combat. High INT and EDU scores make you a better skill monkey. High POW is needed to be good at magic. As is typical for older game engines, only APP/CHA play a major part in the social pillar of play.
+
+Mythras makes you really consider your ability scores. There are no dump stats.
+
+My Design Choices
+
+First, I will use CHA rather than APP, as a personal preference.
+
+Second, I will drop SIZ and replace it with Social Standing (SOC) and a heritage based Build score. By heritage I mean “race” in old game design language, and I want it to represent a nature/nurture/culture background choice for characters. Replacing SIZ with SOC will let me diversify base abilities for a number of skills away from CHA, INT, and EDU (which is a solid clue to how my pans for skills are shaping up).
+
+Third, I will go with the d100 scale ability scores of Call of Cthulhu, rather than the 3d6 range. This will let me use the same experience based improvement system for improving both skills and ability scores. As to whether or not I go with point buy, or that 3d8 OSR mechanic, I will talk with my players first. 3d8 x4 will give a number broadly comparable to 3d6 x5 (with a median of 54 versus 52.5, and a range of 12-92 versus 15-90).
+
+Fourth, Hit Points will be based on CON/5, STR/10, and DEX/10, which will give a level of HP equal to Pulp Cthulhu. I am leaning towards general HP only, no location HP, with a serious wound mechanic at 0 HP or loss of half HP in a single blow, or something like the stepped wound system in Mothership.
+
+Fifth, Melee Damage Bonus will be based off STR and heritage build (75 for a human, non-human heritages may vary from 25 to 110). Options for implementation include the classic bonus die, a flat modifier, or stepping up the weapon damage die (ie d6 steps up to d8, then to d10).
+
+Sixth, Movement Rate will be based off DEX and heritage build (as above). I mostly run theater of mind games, but if its needed for chase scenes its good to have it.
+
+Other mechanical decisions will need to wait until I refine the campaign setting and expectations of play with my players. For example, I might make Luck Points only available to players who roll their ability scores randomly, while players who choose point buy get a different fate/destiny/free will mechanic to use. 
