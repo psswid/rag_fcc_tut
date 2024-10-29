@@ -1,0 +1,9 @@
+[config]
+model="gpt-4o" # the OpenAI model you've deployed on Azure (e.g. gpt-3.5-turbo)
+model_turbo="gpt-4" # the OpenAI model you've deployed on Azure (e.g. gpt-3.5-turbo)
+
+[openai]
+api_type = "azure"
+api_version = '2023-05-15'  # Check Azure documentation for the current API version
+api_base = "https://amsdardopenai.openai.azure.com/"  # The base URL for your Azure OpenAI resource. e.g. "https://<your resource name>.openai.azure.com"
+deployment_id = "gpt4o"  # The deployment name you chose when you deployed the engine
