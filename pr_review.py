@@ -10,7 +10,7 @@ def main():
     provider = "github" # github/gitlab/bitbucket/azure_devops
     user_token = os.getenv("USER_TOKEN")  #  user token for github repo
     openai_key = os.getenv("OPENAI_API_KEY")  # OpenAI key
-    pr_url = "..."      # PR URL, for example 'https://github.com/Codium-ai/pr-agent/pull/809'
+    pr_url = "https://github.com/psswid/rag_fcc_tut/pull/1"      # PR URL, for example 'https://github.com/Codium-ai/pr-agent/pull/809'
     command = "/review" # Command to run (e.g. '/review', '/describe', '/ask="What is the purpose of this PR?"', ...)
 
     # Setting the configurations
