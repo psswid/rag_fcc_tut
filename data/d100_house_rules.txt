@@ -1,0 +1,47 @@
+
+d100 House Rules
+March 18, 2018texarkana23	
+
+I am mucking around with a few rule variants for d100 roleplaying games.
+Fatigue
+
+I have never met a player who enjoyed tracking encumbrance and fatigue, and I do not enjoy it much as a GM either. I had a lightbulb moment today, and started riffing off the morale rules in Moldvay D&D for a Call of Cthulhu 7th Edition hack intended for a Megadungeon crawl.
+
+Test for fatigue when (a) the first PC or foe is eliminated from the combat and (b) when half of the people involved in the combat have been eliminated.
+
+Resolve the test by rolling 1d100 versus CON. Add an advantage die if fresh (first encounter of the day) or unencumbered. Add disadvantage dice for heavy armour, exhaustion and other factors:
+
+    Success – keep fighting
+    Failure – add a disadvantage die to all skill checks for the rest of the encounter
+    Fumble – add two disadvantage dice to all skill checks for the rest of the encounter.
+
+Pro – low amount of bookkeeping required, Con – does add a process step mid-scene where everyone needs to roll dice and record a result. The table also needs some shared expectations around when the disadvantage dice get added to the CON check – which requires the GM or game system to signal clearly when they think the PCs are tired or trying to carry too much stuff around.
+Mastery
+
+In Call of Cthulhu 7th Edition you score a critical success on a roll of 01%, and fumble on a roll of 96-00%. Which tells you a lot about that game system. Thinking about the Conan 2d20 momentum system inspired me to try adding a second threshold for critical success, and giving player’s more tempting opportunities to spend Luck Points to adjust d100 rolls (using an optional rule, possibly from Pulp Cthulhu).
+
+A critical success is scored on a roll that exactly matches the skill level, or when a roll is made equal or less than the skill’s mastery level.
+
+For example, if the reckless swordsman Fitz the Harsh has a skill of 92% and a Master of 06%, then Fitz scores a critical success on a roll of 01-06 or 92, a success on a roll of 07-91, a failure on a roll of 93-95, and a fumble on a roll of 96-00.
+
+Using the optional Luck point system, you can spend 10 Luck Points to cancel a fumble, or shift any other die roll by one per Luck Point you spend.
+
+Mastery does not increase the way normal skills do. So far my thoughts are:
+
+    Start with 01% mastery in the PC’s eight archetype/profession skills.
+    Gain 01% mastery when Skill level reaches 90%.
+    GM discretion to grant a point of mastery for milestone achievements in the campaign.
+    Otherwise mastery improvement requires rolling fumbles equal to the current mastery level to gain +01%. Note: this assumes a table play style where a fumble is adding a complication to the scene (e.g. a dropped weapon), rather than an opportunity for the GM to hammer the character into the afterlife (e.g. an arrow to the eye socket).
+
+Initiative
+
+As part of PC generation I am thinking of having the players draw three major arcana cards to represent past, present and future. While I originally thought of just using this for inspiration in shaping the character concept, today I thought of using it to help shape initiative.
+
+    A player draws three major arcana cards (there are 33 in the deck I intend to use). If any of the three cards match PC cards, the party as a whole holds initiative and the PC(s) with matching cards gain a bonus action they can call on at any point during the encounter.
+    If the PCs do not have initiative and there is an NPC nemesis level opponent (Skills at 90%+) the nemesis gains initiative now, otherwise repeat step one.
+    If the PCs do not have initiative and there is an NPC elite level opponent (Skills at 50%+) the elite gains initiative now, otherwise repeat step one.
+    If the PCs do not have initiative after nine card draws, the NPCs have initiative.
+
+Initiative is then run using the “popcorn initiative” rule, where the last person to act in the scene chooses who acts next. The last person to act in a round gets to choose who acts first in the next round. Note: there are obvious ways of manipulating this system, lets call it “tactics” and not worry about people setting things up to get two attacks in a row.
+
+An obvious tweak to represent surprise or preparation is adjust the number of cards the party gets to draw.

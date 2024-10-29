@@ -1,0 +1,120 @@
+
+D100 – Skills
+July 31, 2022texarkana23	
+
+Part II of many in a series looking at my design choices in building a d100 game system. This post is looking at skills. Given how much of the text in rule books is devoted to skills and how they are used, this post is just the tip of the iceberg for this topic.
+
+Back in 1978 the first edition of Runequest (RQ) introduced a new approach to roleplaying games. RQ did not rely on classes and levels. Rather than restricting play within archetypes like D&D, RQ allowed characters to adopt a wide range of skills, weapons, armour, and spells. 
+d100 Core Mechanic
+
+The d100 game mechanic is seductively easy – you have a skill % to check when you attempt an action, so you roll some dice to generate a number form 1 to 100 – and if the roll is equal or less than your skill, then success! Otherwise you fail. Some d100 games specify automatic success or failure on rolls of 01-05% and 96-00% respectively.
+
+Its a roll under mechanic, so differs from D&D where high rolls are nearly always better.
+
+Degrees of Success
+
+As well as success/failure, d100 games usually have degrees of success:
+
+    A Fumble is the worst possible failure, and might occur on between 01 and 10% of rolls.
+    A special success usually occurs about one-fifth of the time.
+    A critical success might occur anywhere from one tenth to one twentieth of the time, or even as low as only happening on a roll of 01%.
+
+d100 games do not usually have mechanics that “fail forward” or have success “with complications”, except those that occur from following the gameplay procedures, eg when you parry your weapon may take damage and break.
+
+Degrees of success can be called “roll under blackjack”, as the best roll for winning an opposed check is to roll exactly your skill level, e.g. rolling 67 for a skill of 67% is great, but a 68 is a bust, a failure.
+
+Bugs and Features of the Core Mechanic
+
+As simple as it is, the core mechanic has some boundary issues and edge cases that crop up sooner or later in play:
+
+    Whiffing: if you had a low skill, you could fail a lot in attempting actions. In combat this could be frustrating and life threatening to the PC. In investigations it could stall play as you tried to find the clue to get to the next lead in the mystery.
+    Blocking: at high skill levels, opponents could stalemate, with successful attacks being consistently parried or dodged. This leads to a game of waiting until someone gets a critical hit.
+    Rolling to suck: on character sheets with long skill lists, it is not uncommon in some d100 games to have a lot of skills listed at 00% or 05%.
+
+Situational modifiers might also be applied to skill checks:
+
+    In some games this is a flat bonus or penalty, eg +20%, or -15%. This has a greater impact on low skills compared to high skills.
+    Using a complementary skill, invoking a passion, buff spells, or special tools might grant a bonus (one-fifth of a skill in Mythras, up to +50% in RQG)
+    Applying a multiplier, or dividing the skill (eg hard difficulty in Mythras reduces skill by one-third)
+    Advantage or Disadvantage on a roll, where an extra 10s die is rolled, and either the best or worst outcome kept. This has a greater impact on medium level skills, while low and high skill ranks are not so greatly influenced.
+    Call of Cthulhu 7E (CoC7E) has an interesting approach. Against opponents with a skill below 50%, difficulty is not adjusted. Against opponents with skills between 50% and 90%, difficulty is hard (reduce your own skill by half), and against opponents with 90%+ skill, difficulty is extreme (reduce skill to one-fifth).
+
+A range of dice tricks have also been experimented with over the years:
+
+    Luck, Hero, or Fate points for rerolls or changing success levels
+    Flipping the roll, e.g. a 72 becomes a 27.
+    Divine intervention mechanics
+    Changing special successes to doubles, rolls in ending in 5 or 10, or in RD100 having critical success occur when the singles die is less than the ten die (eg 54% is a critical success, 55% is not)
+    In CoC7E, you can escalate the stakes with a pushed reroll, with failure on the second roll being worse than accepting failure on the first roll.
+
+My recollection is that an old Wizards of the Coast survey found that a success rate of 60-70% was considered fair by players of D&D. Some of the solutions that can make d100 games feel fairer to the players have included:
+
+    Only calling for die rolls in stressful situations, eg you ask for Drive skill checks when your car is being pursued by monsters, not for a milk run to the supermarket.
+    Specifying competence levels, so judgement could be applied for when to call for a roll, eg in Basic Roleplaying (BRP) 0-05% in a skill is Novice competency, 06-25% is Neophyte, 26-50% is Amateur, 51-75% is professional, 76-90% is Expert, and 91+% is Mastery.
+    With opposed rolls, specifying that whoever got the higher degree of success would succeed, or having a method to break the tie, eg attackers win ties in CoC7E.
+    In Mythras and similar games, the method for calculating standard skills on the sum of two ability scores, usually results in a much higher minimum skill level than the 05%.
+    Skills Over 100%
+
+Skills over 100% are well into heroic or super heroic levels. While there is always a chance of automatic fumble or failure, different d100 games handle skills over 100 in different ways:
+
+    Mythras and RQG – your skill over 100 reduces your opponents skill level, so if you have 120% skill, a foe with 80% skill has 60% effective skill.
+    BRP – split the skill in two or three, so 120% could become two actions at 60%, but each action has a minimum of 50%.
+    Cthulhu reduces skills by half or more, so until you get close to 200% skill it can cope.
+
+Experience progression over 100% can be a bit tricky, usually its a d100 roll with a modifier from something like INT, trying to score over 100.
+
+Skill Lists
+
+So how many skills should the game have? Too few and all the PCs quickly become indistinguishable from each other. Too many, and suddenly you have a five page character sheet with entries for “Underwater Basket Weaving”. It makes sense for a gladiatorial themed campaign to have several dozen weapon skills, but that would out of place for a game where schoolkids investigate mysteries in a small town. A quick comparison of the number of skills in some different games:
+
+    Runequest in Glorantha (RQG): 104 skills
+    Mythras: 22 standard skills, plus 36 professional skills
+    Call of Cthulhu: 47 skills
+    Revolution D100: 15 skills (further differentiated by a large number of traits)
+    Basic Roleplaying: 66 skills
+
+Sometimes skills can be bundled in packages, eg a Combat style in Mythras might cover use of five weapons, or a range of skills might be connected by a cultural background, profession, archetype, or social organisation. Some skills require further definition, eg a Lore skill might require you to pick a specific field of expertise, so the number of skills above is an undercount. The BRP supplement Enlightened Magic is interesting in that has tiers of magic skills, known as circles, and you cannot learn the next tier until you have at least 75% skill in the previous tier. This kind of sequential skill is rare in d100 games.
+
+Some skills might be evocative of the setting, such as Cthulhu Mythos in CoC, Sense Chaos in RQG, Torture in Aquelarre, or Seduction in Mythras (as a hyper-specialised form of Influence, Seduction is only available to few professions, suggesting that arranged marriage is a common institution in the default setting).
+
+Something else to consider is rarity in the game world versus rarity in heroic adventurers. Its a classic design mistake to go from “this skill is rare in the setting” to “this skill must also be rare for PCs”.
+
+The Cthulhu Mythos skill is an exception to the general rule that a higher skill is always better. Your maximum Sanity score is equal to 100 minus your Cthulhu Mythos score. Failing SAN checks can result in loss of control over your character. While this was an innovative mechanic in the 1980s, I am uncomfortable with it now, with its link to outdated stereotypes of mental illness, and its embedded reflection of H. P. Lovecraft’s racism and xenophobia. The Awareness skill in Masks of the Mythos sounds more interesting – as your knowledge of the truth of reality increases, your character is less subject to the whims of fate.
+Skills as a Universal Mechanic
+
+I do not think d100 skills are quite as fractal as Aspects in FATE are, but the 1-100 range and die roll does get applied to things that are not quite skills. These are mostly commonly life or death skills (saves) and skills that focus on interactions with NPCs:
+
+    Saving throws such as Dodge, Endurance, or Willpower (some of which in early d100 games were resolved via a “Resistance Table” that involved an opposed contest between ability scores). Unlike other skills, you do not want to be rolling saves – making the roll in the first place indicates a failure (this is really clear in Mothership, where your saves often have low values).
+    Passions – an emotional element that can tie you to NPCs, ideologies, and social organisations
+    Reputation – how you are perceived by others
+    Honour – as a constraint on your own actions (less murder hobo, more social work)
+    Credit rating or wealth – used in some social scenes or purchasing equipment.
+
+One thing I found with saves, is that the players in my last d100 campaign felt that having anything less than 90% in a save made them feel incompetent in an opposed check, because they both had to roll under their skill, and above the threat roll. Which gets to the fairness thing above, I think that without luck points, the save system would not have worked for them.
+
+How Powerful are the Player Characters?
+
+I think there are two parts here. First, how powerful are they when created, and secondly, how quickly do they progress over time. I will have another post on experience later, so for now I will just focus on power at character generation. Going by the defaults for a few different games:
+
+    BRP: for a normal game 250 skill points (to max 75%), for a heroic game 325 points (to a max of 90%), for an epic game 400 skill points (to a max of 101%), for a superhuman game 500 skill points (no limits). Add 80-180 points based on INT (x1.5 for heroic, x 2.0 for superheroic, and x2.5 for superhuman games).
+    CoC7E: skills vary by starting profession (usually EDUx4, or EDUx2 plus another ability score x2), plus INTx2. Some profession points may need to be spent on credit rating. So a PC with EDU 55 and INT 65 might have a total of 350 skill points. I am not seeing any cap on initial skills, but maybe I missed it in the rules.
+    Mythras: 100 skill points from Culture (max 15% increase in one skill), 100 skill points from Profession (max 15% increase in one skill), 150 bonus skill points (max skill increase +15), for a total of 350 skill points (on top of base skill levels that are often higher than in BRP). As its hard to increase one skill by more than 45%, starting skills are rarely above 75%.
+    RQG: a history life path system can change some skills, most professions then grant +10-30% in around ten skills (around 150-170 skill points total), cults then increase a few more skills by +5-20% (total 75 skill points), and then the character gets four skills at +25% and another five at +10% (to a maximum of 100%). So a typical character has around 385 skill points.
+
+A common option is to give more skill points to older characters, possibly at the cost of reduced ability scores. You could also shortcut a lot of point crunching by simply handing out the a number of skill levels for the players to allocate, eg one skill at 90%, two at 75%, etc. Initial power can also depend on what skills are open to the character, magic in particular may be restricted to a limited number of professions. Most professions have access to around ten skills in the games listed above. Which suggests that a group of five PCs will be able to cover most of the bases if the skills list is not too much bigger than 50.
+
+My Design Choices
+
+Depending on how discussions with my players go, I am leaning towards a skill model using CoC 7E as a foundation, with a few changes:
+
+    Initial skill points: I am looking at closer to 400-430 points at start. I may allocate points equal to the ability scores, using the Mythras base scores to determine where they can be spent (after some modifying for a SOC ability score).
+    Fumbles will be a player choice on rolls of 99 and 00, but generate an XP check in that skill for everyone in the party, and the GM will take suggestions for what the fumble complication is from the whole table.
+    I am comfortable keeping critical success at 01%, as each PC will have some kind of dice manipulation trick. This also reduces the number of critical hits scored on the PCs.
+    Advantage/Disadvantage for situational and environmental modifiers.
+    I am thinking about using tiered skills for both combat and magic. More on that in posts on those topics.
+    If the setting is magic rich, I may have a specific magic perception skill called Second Sight.
+    To help evoke the feel of a Renaissance setting, I will have an Operate Printing Press skill, and a Liberal Arts skill that includes the seven lore fields of Astronomy, Mathematics, Geometry, Music, Rhetoric, Grammar, and Dialectic (or Logic). If we want to muck around in boats, I may add a couple of nautical skills.
+    I like the idea of a skill like the Awareness skill above, but perhaps called Illumination (although that term has some specific meaning in the Glorantha setting, my players will not be familiar with it, so it will not cause any dissonance in play). This skill would be earned during play.
+    Because I might have “Willpower” points for both magic spells and non-magic stunts, I may rename the Willpower skill to Abyss Gaze.
+    Languages, there will be a lot of these in the setting, and no common tongue, so I will have each PC start with three languages, the first at EDU, the second at EDU/2, and the third at EDU/5. All PCs are assumed to be literate. Because part of the game will be about finding ancient lore, every five skill points spent in character creation on a language, gets you two points in a related tongue, and one point in an unrelated tongue.
+    Rather than create a lot of culture and professions that the players might not use, I will either use those in one of the above rulebooks, or let the players mix and match to fit their character concept.
