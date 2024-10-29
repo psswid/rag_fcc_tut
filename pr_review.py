@@ -3,14 +3,13 @@ from dotenv import load_dotenv
 from pr_agent import cli
 from pr_agent.config_loader import get_settings
 
-
 def main():
     load_dotenv()
     # Fill in the following values
     provider = "github" # github/gitlab/bitbucket/azure_devops
     user_token = os.getenv("USER_TOKEN")  #  user token for github repo
-    openai_key = os.getenv("OPENAI_API_KEY")  # OpenAI key
-    pr_url = "https://github.com/psswid/rag_fcc_tut/pull/1"      # PR URL, for example 'https://github.com/Codium-ai/pr-agent/pull/809'
+    openai_key = os.getenv("AZURE_API_KEY")  # OpenAI key
+    pr_url = "https://github.com/psswid/rag_fcc_tut/pull/4"      # PR URL, for example 'https://github.com/Codium-ai/pr-agent/pull/809'
     command = "/review" # Command to run (e.g. '/review', '/describe', '/ask="What is the purpose of this PR?"', ...)
 
     # Setting the configurations
